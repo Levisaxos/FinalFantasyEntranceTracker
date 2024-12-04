@@ -1,0 +1,163 @@
+[
+  {
+    "Name": "Steel Sword",
+    "ImagePath": "weapons/steelsword.png",
+    "ItemRow": 1,
+    "Sequence": 1,
+    "ItemTypeId": 1
+  },
+  {
+    "Name": "Knights Sword",
+    "ImagePath": "weapons/knightssword.png",
+    "ItemRow": 1,
+    "Sequence": 2,
+    "ItemTypeId": 1
+  },
+  {
+    "Name": "Axe",
+    "ImagePath": "weapons/axe.png",
+    "ItemRow": 1,
+    "Sequence": 1,
+    "ItemTypeId": 2
+  },
+  {
+    "Name": "Battle Axe",
+    "ImagePath": "weapons/battleaxe.png",
+    "ItemRow": 1,
+    "Sequence": 2,
+    "ItemTypeId": 2
+  },
+  {
+    "Name": "Giants Axe",
+    "ImagePath": "weapons/giantsaxe.png",
+    "ItemRow": 1,
+    "Sequence": 3,
+    "ItemTypeId": 2
+  },
+  {
+    "Name": "Cat claw",
+    "ImagePath": "weapons/catclaw.png",
+    "ItemRow": 1,
+    "Sequence": 1,
+    "ItemTypeId": 3
+  },
+  {
+    "Name": "Charm claw",
+    "ImagePath": "weapons/charmclaw.png",
+    "ItemRow": 1,
+    "Sequence": 2,
+    "ItemTypeId": 3
+  },
+  {
+    "Name": "Dragon claw",
+    "ImagePath": "weapons/dragonclaw.png",
+    "ItemRow": 1,
+    "Sequence": 3,
+    "ItemTypeId": 3
+  },
+  {
+    "Name": "Bomb",
+    "ImagePath": "weapons/bomb.png",
+    "ItemRow": 1,
+    "Sequence": 1,
+    "ItemTypeId": 4
+  },
+  {
+    "Name": "Jumbo bomb",
+    "ImagePath": "weapons/jumbobomb.png",
+    "ItemRow": 1,
+    "Sequence": 2,
+    "ItemTypeId": 4
+  },
+  {
+    "Name": "Mega bomb",
+    "ImagePath": "weapons/megagrenade.png",
+    "ItemRow": 1,
+    "Sequence": 3,
+    "ItemTypeId": 4
+  },
+  {
+    "Name": "Steel Helm",
+    "ImagePath": "armor/steelhelm.png",
+    "ItemRow": 2,
+    "Sequence": 1,
+    "ItemTypeId": 5
+  }, 
+  {
+    "Name": "Moon Helm",
+    "ImagePath": "armor/moonhelm.png",
+    "ItemRow": 2,
+    "Sequence": 2,
+    "ItemTypeId": 5
+  },
+  {
+    "Name": "Apollo Helm",
+    "ImagePath": "armor/apollohelm.png",
+    "ItemRow": 2,
+    "Sequence": 3,
+    "ItemTypeId": 5
+  },
+  {
+    "Name": "Steel Armor",
+    "ImagePath": "armor/steelarmor.png",
+    "ItemRow": 2,
+    "Sequence": 1,
+    "ItemTypeId": 6
+  },
+  {
+    "Name": "Noble Armor",
+    "ImagePath": "armor/noblearmor.png",
+    "ItemRow": 2,
+    "Sequence": 2,
+    "ItemTypeId": 6
+  },
+  {
+    "Name": "Gaia's Armor",
+    "ImagePath": "armor/gaiaarmor.png",
+    "ItemRow": 2,
+    "Sequence": 3,
+    "ItemTypeId": 6
+  },
+  {
+    "Name": "Steel Shield",
+    "ImagePath": "armor/steelshield.png",
+    "ItemRow": 2,
+    "Sequence": 1,
+    "ItemTypeId": 7
+  },
+  {
+    "Name": "Venus Shield",
+    "ImagePath": "armor/venusshield.png",
+    "ItemRow": 2,
+    "Sequence": 2,
+    "ItemTypeId": 7
+  },
+  {
+    "Name": "Aegis Shield",
+    "ImagePath": "armor/aegisshield.png",
+    "ItemRow": 2,
+    "Sequence": 3,
+    "ItemTypeId": 7
+  },
+  {
+    "Name": "Charm",
+    "ImagePath": "armor/charm.png",
+    "ItemRow": 2,
+    "Sequence": 1,
+    "ItemTypeId": 8
+  },
+  {
+    "Name": "Magic Ring",
+    "ImagePath": "armor/magicring.png",
+    "ItemRow": 2,
+    "Sequence": 2,
+    "ItemTypeId": 8
+  },
+  {
+    "Name": "Cupid Locket",
+    "ImagePath": "armor/cupidlocket.png",
+    "ItemRow": 2,
+    "Sequence": 3,
+    "ItemTypeId": 8
+  }
+]

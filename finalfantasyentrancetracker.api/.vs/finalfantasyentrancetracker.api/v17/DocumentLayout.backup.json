@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58202762-2F67-4E2C-9A44-8D46696BEA4D}|finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api.csproj|d:\\git\\finalfantasyentrancetracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\json\\items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58202762-2F67-4E2C-9A44-8D46696BEA4D}|finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api.csproj|solutionrelative:finalfantasyentrancetracker.api\\json\\items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58202762-2F67-4E2C-9A44-8D46696BEA4D}|finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api.csproj|d:\\git\\finalfantasyentrancetracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\model\\mqitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58202762-2F67-4E2C-9A44-8D46696BEA4D}|finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api.csproj|solutionrelative:finalfantasyentrancetracker.api\\model\\mqitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58202762-2F67-4E2C-9A44-8D46696BEA4D}|finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api.csproj|d:\\git\\finalfantasyentrancetracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\model\\apiresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58202762-2F67-4E2C-9A44-8D46696BEA4D}|finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api.csproj|solutionrelative:finalfantasyentrancetracker.api\\model\\apiresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58202762-2F67-4E2C-9A44-8D46696BEA4D}|finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api.csproj|d:\\git\\finalfantasyentrancetracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\model\\api\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58202762-2F67-4E2C-9A44-8D46696BEA4D}|finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api.csproj|solutionrelative:finalfantasyentrancetracker.api\\model\\api\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58202762-2F67-4E2C-9A44-8D46696BEA4D}|finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api.csproj|d:\\git\\finalfantasyentrancetracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58202762-2F67-4E2C-9A44-8D46696BEA4D}|finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api.csproj|solutionrelative:finalfantasyentrancetracker.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58202762-2F67-4E2C-9A44-8D46696BEA4D}|finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api.csproj|d:\\git\\finalfantasyentrancetracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\usecase\\items\\getitemsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58202762-2F67-4E2C-9A44-8D46696BEA4D}|finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api.csproj|solutionrelative:finalfantasyentrancetracker.api\\usecase\\items\\getitemsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Items.json",
+              "DocumentMoniker": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\JSON\\Items.json",
+              "RelativeDocumentMoniker": "finalfantasyentrancetracker.api\\JSON\\Items.json",
+              "ToolTip": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\JSON\\Items.json",
+              "RelativeToolTip": "finalfantasyentrancetracker.api\\JSON\\Items.json",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T18:31:35.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "finalfantasyentrancetracker.api\\Controllers\\ItemController.cs",
+              "ToolTip": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "finalfantasyentrancetracker.api\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:28:10.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\Model\\Api\\ItemDto.cs",
+              "RelativeDocumentMoniker": "finalfantasyentrancetracker.api\\Model\\Api\\ItemDto.cs",
+              "ToolTip": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\Model\\Api\\ItemDto.cs",
+              "RelativeToolTip": "finalfantasyentrancetracker.api\\Model\\Api\\ItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:12:18.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResultDto.cs",
+              "DocumentMoniker": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\Model\\ApiResultDto.cs",
+              "RelativeDocumentMoniker": "finalfantasyentrancetracker.api\\Model\\ApiResultDto.cs",
+              "ToolTip": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\Model\\ApiResultDto.cs",
+              "RelativeToolTip": "finalfantasyentrancetracker.api\\Model\\ApiResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:39:19.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MQItem.cs",
+              "DocumentMoniker": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\Model\\MQItem.cs",
+              "RelativeDocumentMoniker": "finalfantasyentrancetracker.api\\Model\\MQItem.cs",
+              "ToolTip": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\Model\\MQItem.cs",
+              "RelativeToolTip": "finalfantasyentrancetracker.api\\Model\\MQItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:39:08.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetItemsUseCase.cs",
+              "DocumentMoniker": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\UseCase\\Items\\GetItemsUseCase.cs",
+              "RelativeDocumentMoniker": "finalfantasyentrancetracker.api\\UseCase\\Items\\GetItemsUseCase.cs",
+              "ToolTip": "D:\\GIT\\FinalFantasyEntranceTracker\\finalfantasyentrancetracker.api\\finalfantasyentrancetracker.api\\UseCase\\Items\\GetItemsUseCase.cs",
+              "RelativeToolTip": "finalfantasyentrancetracker.api\\UseCase\\Items\\GetItemsUseCase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:37:38.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

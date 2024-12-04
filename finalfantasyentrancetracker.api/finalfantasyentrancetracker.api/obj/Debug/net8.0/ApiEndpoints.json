@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "finalfantasyentrancetracker.api.Controllers.ItemController",
+    "Method": "GetItems",
+    "RelativePath": "api/getItems",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "finalfantasyentrancetracker.api.Controllers.SqlController",
+    "Method": "CreateDatabase",
+    "RelativePath": "api/sql/createdatabase",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "finalfantasyentrancetracker.api.Controllers.SqlController",
+    "Method": "DropDatabase",
+    "RelativePath": "api/sql/dropdatabase",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "finalfantasyentrancetracker.api.Controllers.SqlController",
+    "Method": "RecreateDatabase",
+    "RelativePath": "api/sql/recreatedatabase",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

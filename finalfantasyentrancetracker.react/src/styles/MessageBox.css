@@ -1,0 +1,58 @@
+.message-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  z-index: 1000;
+}
+
+.message-panel {
+  position: relative;
+  min-width: 300px;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  margin-bottom: 10px;
+  transition: all 0.3s ease;
+}
+
+.message-panel-error {
+  background-color: #FEE2E2;
+  border: 1px solid #FCA5A5;
+  color: #991B1B;
+}
+
+.message-panel-info {
+  background-color: #E0F2FE;
+  border: 1px solid #7DD3FC;
+  color: #075985;
+}
+
+.message-panel-title {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 16px;
+  font-weight: bold;  
+}
+
+.message-panel-message {
+  margin: 0;
+  font-size: 14px;
+}
+
+.message-panel-progress-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.message-panel-progress {
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  transition: width 50ms linear;
+}

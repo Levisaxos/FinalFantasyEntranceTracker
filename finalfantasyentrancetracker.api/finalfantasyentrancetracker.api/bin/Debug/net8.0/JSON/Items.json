@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "Steel Sword",
+    "ImagePath": "weapons/steelsword.png",
+    "ItemRow": 1,
+    "Sequence": 1,
+    "ItemTypeId": "1"
+  },
+  {
+    "Name": "Knights Sword",
+    "ImagePath": "weapons/knightssword.png",
+    "ItemRow": 1,
+    "Sequence": 2,
+    "ItemTypeId": "1"
+  },
+  {
+    "Name": "Axe",
+    "ImagePath": "weapons/axe.png",
+    "ItemRow": 1,
+    "Sequence": 1,
+    "ItemTypeId": "2"
+  },
+  {
+    "Name": "Battle Axe",
+    "ImagePath": "weapons/battleaxe.png",
+    "ItemRow": 1,
+    "Sequence": 2,
+    "ItemTypeId": "2"
+  },
+  {
+    "Name": "Giants Axe",
+    "ImagePath": "weapons/giantsaxe.png",
+    "ItemRow": 1,
+    "Sequence": 3,
+    "ItemTypeId": "2"
+  },
+  {
+    "Name": "Cat claw",
+    "ImagePath": "weapons/catclaw.png",
+    "ItemRow": 1,
+    "Sequence": 1,
+    "ItemTypeId": "3"
+  },
+  {
+    "Name": "Charm claw",
+    "ImagePath": "weapons/charmclaw.png",
+    "ItemRow": 1,
+    "Sequence": 2,
+    "ItemTypeId": "3"
+  },
+  {
+    "Name": "Dragon claw",
+    "ImagePath": "weapons/dragonclaw.png",
+    "ItemRow": 1,
+    "Sequence": 3,
+    "ItemTypeId": "3"
+  },
+  {
+    "Name": "Bomb",
+    "ImagePath": "weapons/bomb.png",
+    "ItemRow": 1,
+    "Sequence": 1,
+    "ItemTypeId": "4"
+  },
+  {
+    "Name": "Jumbo bomb",
+    "ImagePath": "weapons/jumbobomb.png",
+    "ItemRow": 1,
+    "Sequence": 2,
+    "ItemTypeId": "4"
+  },
+  {
+    "Name": "Mega bomb",
+    "ImagePath": "weapons/megagrenade.png",
+    "ItemRow": 1,
+    "Sequence": 3,
+    "ItemTypeId": "4"
+  },
+  {
+    "Name": "Steel Helm",
+    "ImagePath": "armor/steelhelm.ping",
+    "ItemRow": 2,
+    "Sequence": 1,
+    "ItemTypeId": "5"
+  }
+]

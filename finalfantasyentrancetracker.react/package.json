@@ -10,8 +10,8 @@
     "web-vitals": "^4.2.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
     "serve": "node server/service.js",
     "dev": "env-cmd -f .env.development npm start",
     "build:prod": "env-cmd -f .env.production npm run build"
@@ -29,8 +29,13 @@
     ]
   },
   "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
     "autoprefixer": "^10.4.20",
+    "customize-cra": "^1.0.0",
     "postcss": "^8.4.49",
-    "tailwindcss": "^3.4.15"
+    "react-app-rewired": "^2.2.1",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.7.2"
   }
 }
